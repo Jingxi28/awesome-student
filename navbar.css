@@ -37,7 +37,7 @@
             text-align: center;
         }
         li a:hover, .dropdown:hover .dropbtn {
-            background-color: rgb(67, 135, 113);
+            background-color: rgb(11, 117, 179);
         }
         li.dropdown{
         display: inline-block;
